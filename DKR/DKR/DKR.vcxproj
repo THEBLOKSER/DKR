@@ -130,11 +130,13 @@
     <ClCompile Include="Customer.cpp" />
     <ClCompile Include="DKR.cpp" />
     <ClCompile Include="Encryption.cpp" />
+    <ClCompile Include="Logger.cpp" />
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Customer.h" />
     <ClInclude Include="Encryption.h" />
+    <ClInclude Include="Logger.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

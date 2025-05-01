@@ -1,5 +1,6 @@
 #include "Vector.h"
 #include "Encryption.h"
+#include "Logger.h"
 #include <fstream>
 #include <iostream>
 #include <algorithm>
@@ -7,6 +8,7 @@
 void Vector::addCustomer(const Customer& customer) {
     std::string encrypted = Encryption::encryptCustomer(customer);
     encryptedCustomers.push_back(encrypted);
+    Logger::log("Customer added.");
 }
 
 void Vector::saveToFile(const std::string& filename) const {
@@ -21,6 +23,7 @@ void Vector::saveToFile(const std::string& filename) const {
     }
 
     file.close();
+    Logger::log("Data saved to file.");
 }
 
 void Vector::loadFromFile(const std::string& filename) {
@@ -37,10 +40,12 @@ void Vector::loadFromFile(const std::string& filename) {
     }
 
     file.close();
+    Logger::log("Data loaded from file.");
 }
 
 void Vector::setOption(int opt) {
     outputOption = opt;
+    Logger::log("Option setted.");
 }
 
 void Vector::setCardRange(int minC, int maxC) {

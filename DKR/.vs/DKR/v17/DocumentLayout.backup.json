@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\DKR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\DKR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,12 +19,20 @@
       "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\DKR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\DKR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|solutionrelative:DKR\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C74886-DD4E-49C4-85EE-9C24BBCE4346}|DKR\\DKR.vcxproj|C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Encryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,12 +59,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Logger.cpp",
+              "RelativeDocumentMoniker": "DKR\\Logger.cpp",
+              "ToolTip": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Logger.cpp",
+              "RelativeToolTip": "DKR\\Logger.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T11:04:37.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.h",
+              "DocumentMoniker": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Logger.h",
+              "RelativeDocumentMoniker": "DKR\\Logger.h",
+              "ToolTip": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Logger.h",
+              "RelativeToolTip": "DKR\\Logger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T11:03:32.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Vector.cpp",
               "DocumentMoniker": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Vector.cpp",
               "RelativeDocumentMoniker": "DKR\\Vector.cpp",
               "ToolTip": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Vector.cpp",
               "RelativeToolTip": "DKR\\Vector.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-01T10:04:02.926Z",
               "EditorCaption": ""
@@ -82,14 +116,14 @@
               "RelativeDocumentMoniker": "DKR\\Encryption.cpp",
               "ToolTip": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Encryption.cpp",
               "RelativeToolTip": "DKR\\Encryption.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-01T09:29:04.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Encryption.h",
               "DocumentMoniker": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Encryption.h",
               "RelativeDocumentMoniker": "DKR\\Encryption.h",
@@ -97,8 +131,7 @@
               "RelativeToolTip": "DKR\\Encryption.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T09:17:29.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T09:17:29.284Z"
             },
             {
               "$type": "Document",
@@ -108,14 +141,14 @@
               "RelativeDocumentMoniker": "DKR\\Customer.cpp",
               "ToolTip": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Customer.cpp",
               "RelativeToolTip": "DKR\\Customer.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-29T07:48:16.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Customer.h",
               "DocumentMoniker": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\Customer.h",
               "RelativeDocumentMoniker": "DKR\\Customer.h",
@@ -123,12 +156,11 @@
               "RelativeToolTip": "DKR\\Customer.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-29T07:47:58.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T07:47:58.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DKR.cpp",
               "DocumentMoniker": "C:\\Users\\freep\\Desktop\\KPI HW\\OOP\\DKR\\DKR\\DKR\\DKR.cpp",
               "RelativeDocumentMoniker": "DKR\\DKR.cpp",

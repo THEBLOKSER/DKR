@@ -1,4 +1,5 @@
 #include "Encryption.h"
+#include "Logger.h"
 #include <sstream>
 
 std::string Encryption::caesarEncrypt(const std::string& text) {
@@ -26,6 +27,7 @@ std::string Encryption::encryptCustomer(const Customer& customer) {
         << customer.getBankAccountNumber();
 
     return caesarEncrypt(oss.str());
+    Logger::log("Data is encrypted.");
 }
 
 Customer Encryption::decryptCustomer(const std::string& encryptedData) {
@@ -46,4 +48,5 @@ Customer Encryption::decryptCustomer(const std::string& encryptedData) {
         std::stoi(cardStr),
         std::stoi(bankStr)
     );
+    Logger::log("Data is decrypted.");
 }
