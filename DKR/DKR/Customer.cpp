@@ -50,8 +50,11 @@ int Customer::getBankAccountNumber() const {
     return m_BankAccNum;
 }
 
-ostream& operator<<(ostream& os, const Customer cust) {
-    
-    os << endl;
+ostream& operator<<(ostream& os, const Customer& customer) {
+    os << "ID: " << customer.getId() << ", "
+        << "LastName: " << customer.getLastName() << ", "
+        << "FirstName: " << customer.getFirstName() << ", "
+        << "Card: " << customer.getCreditCardNumber() << ", "
+        << "BankAccountNumber: " << customer.getBankAccountNumber();
     return os;
 }

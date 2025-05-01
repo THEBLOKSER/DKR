@@ -24,6 +24,6 @@ public:
 	string getFirstName() const;
 	int getCreditCardNumber() const;
 	int getBankAccountNumber() const;
-	friend ostream& operator<<(ostream& os, const Customer cust);
+	friend ostream& operator<<(ostream& os, const Customer& customer);
 };
 
