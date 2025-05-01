@@ -1,6 +1,9 @@
 #include <iostream>
+#include <vector>
+#include "Customer.h"
+#include "Encryption.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	vector<Customer> customers;
 }

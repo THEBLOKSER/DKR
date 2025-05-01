@@ -10,16 +10,6 @@ Customer::Customer(int Id, string LastName, string FirstName, int CardNum, int B
 Customer::Customer()
 	:m_Id(0000), m_LastName("NoName"), m_FirstName("NoName"), m_CardNum(0000), m_BankAccNum(00000){}
 
-void Customer::ExitOfNames()
-{
-
-}
-
-void Customer::IntervalOfCards()
-{
-
-}
-
 void Customer::setId(int newId) {
     m_Id = newId;
 }
@@ -44,11 +34,11 @@ int Customer::getId() const {
     return m_Id;
 }
 
-std::string Customer::getLastName() const {
+string Customer::getLastName() const {
     return m_LastName;
 }
 
-std::string Customer::getFirstName() const {
+string Customer::getFirstName() const {
     return m_FirstName;
 }
 
@@ -58,4 +48,10 @@ int Customer::getCreditCardNumber() const {
 
 int Customer::getBankAccountNumber() const {
     return m_BankAccNum;
+}
+
+ostream& operator<<(ostream& os, const Customer cust) {
+    
+    os << endl;
+    return os;
 }
