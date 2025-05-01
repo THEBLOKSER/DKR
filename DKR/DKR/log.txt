@@ -1,0 +1,10 @@
+Thu May  1 16:19:52 2025: Data loaded from file.
+Thu May  1 16:20:37 2025: Customer added.
+Thu May  1 16:20:37 2025: Data saved to file.
+Thu May  1 16:21:05 2025: Customer added.
+Thu May  1 16:21:05 2025: Data saved to file.
+Thu May  1 16:21:55 2025: Customer added.
+Thu May  1 16:21:55 2025: Data saved to file.
+Thu May  1 16:22:02 2025: Option setted.
+Thu May  1 16:22:45 2025: Data loaded from file.
+Thu May  1 16:22:47 2025: Option setted.
